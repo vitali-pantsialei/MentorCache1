@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\MentorCache\FibonacciTest\bin\Debug\FibonacciTest.dll
+c:\users\user\documents\visual studio 2013\Projects\MentorCache\FibonacciTest\bin\Debug\FibonacciTest.pdb
+c:\users\user\documents\visual studio 2013\Projects\MentorCache\FibonacciTest\bin\Debug\FibonacciCache.dll
+c:\users\user\documents\visual studio 2013\Projects\MentorCache\FibonacciTest\bin\Debug\FibonacciCache.pdb
+c:\users\user\documents\visual studio 2013\Projects\MentorCache\FibonacciTest\obj\Debug\FibonacciTest.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\MentorCache\FibonacciTest\obj\Debug\FibonacciTest.dll
+c:\users\user\documents\visual studio 2013\Projects\MentorCache\FibonacciTest\obj\Debug\FibonacciTest.pdb
+c:\users\user\documents\visual studio 2013\Projects\MentorCache\FibonacciTest\bin\Debug\StackExchange.Redis.dll
+c:\users\user\documents\visual studio 2013\Projects\MentorCache\FibonacciTest\bin\Debug\StackExchange.Redis.pdb
+c:\users\user\documents\visual studio 2013\Projects\MentorCache\FibonacciTest\bin\Debug\StackExchange.Redis.xml
